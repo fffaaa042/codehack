@@ -1,0 +1,17 @@
+[33mcommit 0aeffcf9cc807c4d19e6d3877e632170e9d6bc90[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: fffaaa042 <fffaaa042@gmail.com>
+Date:   Thu Jul 12 22:07:08 2018 +0300
+
+    users page working without photos
+
+[33mcommit f9d03e8a1071eccda4cd63507b9223778f1cca35[m
+Author: fffaaa042 <fffaaa042@gmail.com>
+Date:   Wed Jul 11 20:01:55 2018 +0300
+
+    admin master page setup
+
+[33mcommit 0fee6b051600312142b8ff063a2c0936e789bdf1[m
+Author: fffaaa042 <fffaaa042@gmail.com>
+Date:   Mon Jul 9 22:47:41 2018 +0300
+
+    my first committing - admin views created
